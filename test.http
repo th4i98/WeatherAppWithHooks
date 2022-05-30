@@ -1,0 +1,3 @@
+# GET https://api.openweathermap.org/data/2.5/onecall?lat=10&lon=10&appid=b2bee9d5be8be2079a8255b2b6f35a9b
+
+GET https://api.openweathermap.org/geo/1.0/reverse?lat=21.0245&lon=105.8412&limit=5&appid=e8558d79404af674371bdc48e91b9f88
